@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "89ef4f92dfe7971a",
+        "id": "eeab086f8dc869db",
         "type": "tabs",
         "children": [
           {
-            "id": "441c05dc84b4907b",
+            "id": "5a1dd3e66e145812",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2/2.md",
+                "file": "5 Unix/5.1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbcdb53b236f1694",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 Linux Fundamental/6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b42ac0feaff458b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "แนวข้อสอบ.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,6 +89,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "49e51a3da16d6843",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2/2.md",
+                "file": "แนวข้อสอบ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2/2.md",
+                "file": "แนวข้อสอบ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2/2.md"
+                "file": "แนวข้อสอบ.md"
               }
             }
           }
@@ -146,9 +179,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "441c05dc84b4907b",
+  "active": "1b42ac0feaff458b",
   "lastOpenFiles": [
+    "6 Linux Fundamental/6.md",
+    "5 Unix/5.2.md",
+    "5 Unix/5.1.md",
+    "4/4.md",
+    "3/3.md",
+    "2/2.md",
     "1 - Orientation/Orientation.md",
-    "2/2.md"
+    "6 Linux Fundamental/linuxfun.pdf",
+    "แนวข้อสอบ.md",
+    "4/Pasted image 20230202095530.png",
+    "3/MicrosoftTeams-image.png",
+    "4/Pasted image 20230202102651.png",
+    "6 Linux Fundamental",
+    "New folder",
+    "5 Unix/~WRL3832.tmp",
+    "5 Unix/~WRD3797.tmp",
+    "5 Unix/~WRL0005.tmp",
+    "5 Unix/~WRD0004.tmp",
+    "5 Unix/~WRL0003.tmp",
+    "5 Unix/~WRD0002.tmp",
+    "5 Unix/~WRL0001.tmp",
+    "2023-03-02.md",
+    "Pasted image 20230202114334.png",
+    "Pasted image 20230202095524.png",
+    "2/Pasted image 20230125233317.png"
   ]
 }
